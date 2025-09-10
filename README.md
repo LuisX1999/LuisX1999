@@ -6,10 +6,6 @@
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2twZDlncm82cjFkeTF5NTVwNjdtd2d6YnMxN2d0M3F1NWUzZXdmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisx1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
 ###
 
 <div align="left">
@@ -51,8 +47,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisx1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisx1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 <div align="center">
