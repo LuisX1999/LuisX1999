@@ -58,9 +58,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=luisx1999.luisx1999&"  />
